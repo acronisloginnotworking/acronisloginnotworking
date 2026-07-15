@@ -12,7 +12,7 @@ If your **Acronis login is not working**, the issue may be caused by incorrect c
 
    <div style="text-align:center; margin:30px 0;">
       <a href="https://tek.chat/" target="_blank" style="background:#0B5CAD;color:#ffffff;padding:14px 30px;text-decoration:none;border-radius:6px;font-size:16px;font-weight:bold;display:inline-block;">
-         Get Login Help
+         Login Support
       </a>
    </div>
 
